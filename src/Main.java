@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
 //        Car a = new Car(1, "BMW E34", "black", 0);
 //        Car b = new Car(2, "TESLA X", "red", 0);
 
@@ -19,11 +20,6 @@ public class Main {
 //
 //        a.color = "black";
 //
-//        a.drive();
-//        a.info();
-//        a.setColor("purple");
-//        a.info();
-//        a.startEngine();
 
         Car car = new Car(1, "BMW E34", "black", 0);
         Cabriolet cabriolet = new Cabriolet(2, "TESLA X", "red", 0, true);
